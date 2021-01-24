@@ -1,0 +1,1 @@
+gcc -o kilo kilo.c -Wall -W -pedantic -std=c99
