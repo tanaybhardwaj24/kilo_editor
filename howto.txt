@@ -1,1 +1,3 @@
+Use This Command To Compile
+
 gcc -o kilo kilo.c -Wall -W -pedantic -std=c99
